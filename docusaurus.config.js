@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FT_Memo',
   tagline: '42 Memo',
-  url: 'https://',
+  url: 'https://101ta28-ft-memo.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
