@@ -67,14 +67,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Memo',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: '/blog', label: 'Blog', position: 'left'}
         ],
       },
       footer: {
@@ -84,8 +79,17 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Memo',
                 to: '/docs/intro',
+              },
+            ],
+          },
+					{
+            title: 'Blog',
+            items: [
+              {
+                label: 'blog',
+                to: '/blog',
               },
             ],
           },
