@@ -2,46 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+このページ(サイト)がどういった目的で作られたのか説明します。
 
-## Getting Started
+## 面倒な作業の備忘録
 
-Get started by **creating a new site**.
+今までは[Notion](https://www.notion.so/ja-jp)というメモアプリケーションで色々な情報を管理していました。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+もちろん便利なツールではあるのですが、せっかくならWebサイトにまとめて情報共有したいですよね！
 
-### What you'll need
+というわけでこのサイトが生まれたのです。
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 免責
 
-## Generate a new site
+このサイトの記述や参考ファイルをダウンロードすることによって、読者のコンピュータ、ネットワーク環境に支障・障害が生じる、つまりは何があっても著者は一切責任を取りません。
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+間違いや誤植があれば、[Twitter](https://twitter.com/101ta28) または、[GitHub](https://github.com/101ta28/101ta28/issues)で教えてください。
