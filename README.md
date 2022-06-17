@@ -1,6 +1,6 @@
 # FT_Memo
 
-This website is 42 memo.
+Site is [here](https://101ta28-ft-memo.netlify.app).
 
 ### Installation
 
