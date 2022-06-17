@@ -1,5 +1,7 @@
 # Website
 
+Site is [here](https://101ta28-ft-memo.netlify.app).
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
