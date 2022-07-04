@@ -35,9 +35,20 @@ python3 -m pip install --user norminette==3.3.2
 :::caution
 
 <details>
-	<summary>pipのエラーが出る時は...</summary>
+	<summary>Ubuntu (WSL)でpipのエラーが出る時は...</summary>
 	<div>
 		<code>sudo apt install python3-pip</code> でpip自体をインストールする。
+	</div>
+</details>
+
+:::
+
+:::caution
+
+<details>
+	<summary>Macでpipのエラーが出る時は...</summary>
+	<div>
+		<code>python -m ensurepip --upgrade</code>でpipを導入する。
 	</div>
 </details>
 
