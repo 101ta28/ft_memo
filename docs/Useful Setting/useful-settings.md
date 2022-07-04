@@ -48,7 +48,7 @@ python3 -m pip install --user norminette==3.3.2
 <details>
 	<summary>Macでpipのエラーが出る時は...</summary>
 	<div>
-		<code>python -m ensurepip --upgrade</code>でpipを導入する。
+		<code>python3 -m ensurepip --upgrade</code>でpipを導入する。
 	</div>
 </details>
 
