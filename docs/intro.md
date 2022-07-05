@@ -18,4 +18,4 @@ sidebar_position: 1
 
 このサイトの記述や参考ファイルをダウンロードすることによって、読者のコンピュータ、ネットワーク環境に支障・障害が生じる、つまりは何があっても著者は一切責任を取りません。
 
-間違いや誤植があれば、[Twitter](https://twitter.com/101ta28) または、[GitHub](https://github.com/101ta28/101ta28/issues)で教えてください。
+間違いや誤植があれば、[Twitter](https://twitter.com/101ta28) または、[GitHub](https://github.com/101ta28/ft_memo/issues)で教えてください。
