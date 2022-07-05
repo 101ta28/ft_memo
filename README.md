@@ -1,6 +1,4 @@
-# FT_Memo
-
-Site is [here](https://101ta28-ft-memo.netlify.app).
+# [FT_Memo](https://101ta28-ft-memo.netlify.app)
 
 ### Installation
 
